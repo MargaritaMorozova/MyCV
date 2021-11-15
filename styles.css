@@ -77,8 +77,8 @@ a:visited {				/* при нажатии на ссылку она меняет ц
 .bg-red {
 	background: #FFCCCC;
 }
-.bg-blue {
-	background: #CCFFFF;
+.bg-orange {
+	background: #FFCC99;
 }
 
 .card {
